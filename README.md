@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant12797/Leet_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hemant12797/Leet_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -47,6 +48,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant12797/Leet_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -78,8 +81,13 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/hemant12797/Leet_Solutions/tree/master/0043-multiply-strings) |
+| [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
