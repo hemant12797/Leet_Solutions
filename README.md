@@ -23,6 +23,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/hemant12797/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant12797/Leet_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hemant12797/Leet_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/hemant12797/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
@@ -98,9 +100,14 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hemant12797/Leet_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/hemant12797/Leet_Solutions/tree/master/0010-regular-expression-matching) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->
