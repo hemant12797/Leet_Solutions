@@ -48,6 +48,7 @@
 | [0035-search-insert-position](https://github.com/hemant12797/Leet_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hemant12797/Leet_Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/hemant12797/Leet_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/hemant12797/Leet_Solutions/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/hemant12797/Leet_Solutions/tree/master/0792-binary-search) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hemant12797/Leet_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hemant12797/Leet_Solutions/tree/master/0002-add-two-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/hemant12797/Leet_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
