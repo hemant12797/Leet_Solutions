@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hemant12797/Leet_Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0792-binary-search](https://github.com/hemant12797/Leet_Solutions/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
@@ -43,6 +44,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hemant12797/Leet_Solutions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/hemant12797/Leet_Solutions/tree/master/0792-binary-search) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hemant12797/Leet_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
