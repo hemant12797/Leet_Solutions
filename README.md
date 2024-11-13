@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/hemant12797/Leet_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hemant12797/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/hemant12797/Leet_Solutions/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
@@ -72,6 +73,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hemant12797/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -86,6 +88,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hemant12797/Leet_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2716-prime-subtraction-operation](https://github.com/hemant12797/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
@@ -93,6 +96,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hemant12797/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
