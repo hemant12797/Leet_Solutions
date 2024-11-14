@@ -36,6 +36,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2634-minimum-common-value](https://github.com/hemant12797/Leet_Solutions/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hemant12797/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hemant12797/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/hemant12797/Leet_Solutions/tree/master/2756-buy-two-chocolates) |
@@ -50,6 +51,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/hemant12797/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2634-minimum-common-value](https://github.com/hemant12797/Leet_Solutions/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hemant12797/Leet_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -65,6 +67,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hemant12797/Leet_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2634-minimum-common-value](https://github.com/hemant12797/Leet_Solutions/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hemant12797/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/hemant12797/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
@@ -108,6 +111,7 @@
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
+| [2634-minimum-common-value](https://github.com/hemant12797/Leet_Solutions/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hemant12797/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
