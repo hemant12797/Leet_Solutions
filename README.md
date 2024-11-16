@@ -47,6 +47,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/hemant12797/Leet_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hemant12797/Leet_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hemant12797/Leet_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hemant12797/Leet_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hemant12797/Leet_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hemant12797/Leet_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Number Theory
 |  |
 | ------- |
