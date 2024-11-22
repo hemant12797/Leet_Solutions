@@ -33,6 +33,7 @@
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/hemant12797/Leet_Solutions/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hemant12797/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hemant12797/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/hemant12797/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant12797/Leet_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hemant12797/Leet_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -58,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hemant12797/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/hemant12797/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemant12797/Leet_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -111,6 +113,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hemant12797/Leet_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hemant12797/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant12797/Leet_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
