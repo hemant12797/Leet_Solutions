@@ -23,6 +23,7 @@
 | [0016-3sum-closest](https://github.com/hemant12797/Leet_Solutions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/hemant12797/Leet_Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hemant12797/Leet_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/hemant12797/Leet_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -113,6 +114,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/hemant12797/Leet_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hemant12797/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hemant12797/Leet_Solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/hemant12797/Leet_Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hemant12797/Leet_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hemant12797/Leet_Solutions/tree/master/0069-sqrtx) |
 | [2716-prime-subtraction-operation](https://github.com/hemant12797/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
