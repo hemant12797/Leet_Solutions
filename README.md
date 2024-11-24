@@ -196,6 +196,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hemant12797/Leet_Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/hemant12797/Leet_Solutions/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/hemant12797/Leet_Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Counting
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hemant12797/Leet_Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/hemant12797/Leet_Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Interactive
 |  |
 | ------- |
