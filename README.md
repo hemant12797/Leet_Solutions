@@ -260,5 +260,6 @@
 ## Graph
 |  |
 | ------- |
+| [3189-find-champion-ii](https://github.com/hemant12797/Leet_Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hemant12797/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
