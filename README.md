@@ -54,6 +54,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/hemant12797/Leet_Solutions/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hemant12797/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/hemant12797/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/hemant12797/Leet_Solutions/tree/master/2756-buy-two-chocolates) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -128,6 +129,7 @@
 | [1972-rotating-the-box](https://github.com/hemant12797/Leet_Solutions/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hemant12797/Leet_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
 |  |
@@ -189,6 +191,7 @@
 | [0787-sliding-puzzle](https://github.com/hemant12797/Leet_Solutions/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hemant12797/Leet_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hemant12797/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Bit Manipulation
 |  |
@@ -257,6 +260,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hemant12797/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hemant12797/Leet_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -265,10 +269,12 @@
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hemant12797/Leet_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/hemant12797/Leet_Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hemant12797/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hemant12797/Leet_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
