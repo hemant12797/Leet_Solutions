@@ -40,6 +40,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hemant12797/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/hemant12797/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant12797/Leet_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/hemant12797/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hemant12797/Leet_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/hemant12797/Leet_Solutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hemant12797/Leet_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -71,6 +72,7 @@
 | [0525-contiguous-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0525-contiguous-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hemant12797/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/hemant12797/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/hemant12797/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemant12797/Leet_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -88,6 +90,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hemant12797/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/hemant12797/Leet_Solutions/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hemant12797/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/hemant12797/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hemant12797/Leet_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hemant12797/Leet_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -112,6 +115,7 @@
 | [0015-3sum](https://github.com/hemant12797/Leet_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hemant12797/Leet_Solutions/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/hemant12797/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hemant12797/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -150,6 +154,7 @@
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/hemant12797/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hemant12797/Leet_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/hemant12797/Leet_Solutions/tree/master/1972-rotating-the-box) |
 | [2634-minimum-common-value](https://github.com/hemant12797/Leet_Solutions/tree/master/2634-minimum-common-value) |
