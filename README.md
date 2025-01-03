@@ -50,6 +50,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/hemant12797/Leet_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hemant12797/Leet_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemant12797/Leet_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -228,6 +229,7 @@
 | [0525-contiguous-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0525-contiguous-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hemant12797/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2358-number-of-ways-to-split-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## Sliding Window
 |  |
 | ------- |
