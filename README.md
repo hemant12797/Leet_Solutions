@@ -174,6 +174,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hemant12797/Leet_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hemant12797/Leet_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hemant12797/Leet_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2470-removing-stars-from-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/hemant12797/Leet_Solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hemant12797/Leet_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hemant12797/Leet_Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -199,6 +200,7 @@
 | [0043-multiply-strings](https://github.com/hemant12797/Leet_Solutions/tree/master/0043-multiply-strings) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hemant12797/Leet_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2470-removing-stars-from-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hemant12797/Leet_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2470-removing-stars-from-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
