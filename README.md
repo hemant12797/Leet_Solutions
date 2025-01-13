@@ -4,17 +4,20 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hemant12797/Leet_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/hemant12797/Leet_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hemant12797/Leet_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/hemant12797/Leet_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2201-valid-arrangement-of-pairs](https://github.com/hemant12797/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hemant12797/Leet_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/hemant12797/Leet_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Array
@@ -254,6 +257,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hemant12797/Leet_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/hemant12797/Leet_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2470-removing-stars-from-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
