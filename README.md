@@ -179,6 +179,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hemant12797/Leet_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/hemant12797/Leet_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/hemant12797/Leet_Solutions/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/hemant12797/Leet_Solutions/tree/master/0043-multiply-strings) |
