@@ -84,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0525-contiguous-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hemant12797/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/hemant12797/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -132,6 +133,7 @@
 | [0015-3sum](https://github.com/hemant12797/Leet_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hemant12797/Leet_Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hemant12797/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -190,6 +192,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/hemant12797/Leet_Solutions/tree/master/0043-multiply-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hemant12797/Leet_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hemant12797/Leet_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -233,6 +236,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 | [1940-maximum-xor-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
