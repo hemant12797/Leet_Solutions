@@ -37,6 +37,7 @@
 | [0035-search-insert-position](https://github.com/hemant12797/Leet_Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/hemant12797/Leet_Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/hemant12797/Leet_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/hemant12797/Leet_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
@@ -334,4 +335,8 @@
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/hemant12797/Leet_Solutions/tree/master/0975-range-sum-of-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/hemant12797/Leet_Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
