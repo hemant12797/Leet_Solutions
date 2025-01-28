@@ -222,6 +222,7 @@
 | [0048-rotate-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hemant12797/Leet_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hemant12797/Leet_Solutions/tree/master/0069-sqrtx) |
+| [2383-add-two-integers](https://github.com/hemant12797/Leet_Solutions/tree/master/2383-add-two-integers) |
 | [2716-prime-subtraction-operation](https://github.com/hemant12797/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Simulation
 |  |
