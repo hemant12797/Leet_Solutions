@@ -8,6 +8,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/hemant12797/Leet_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemant12797/Leet_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant12797/Leet_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/hemant12797/Leet_Solutions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/hemant12797/Leet_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -28,6 +29,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/hemant12797/Leet_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemant12797/Leet_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant12797/Leet_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/hemant12797/Leet_Solutions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/hemant12797/Leet_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -340,6 +342,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/hemant12797/Leet_Solutions/tree/master/0975-range-sum-of-bst) |
 ## Backtracking
 |  |
