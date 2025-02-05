@@ -137,6 +137,7 @@
 | [0010-regular-expression-matching](https://github.com/hemant12797/Leet_Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/hemant12797/Leet_Solutions/tree/master/0198-house-robber) |
+| [0397-integer-replacement](https://github.com/hemant12797/Leet_Solutions/tree/master/0397-integer-replacement) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant12797/Leet_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hemant12797/Leet_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -174,6 +175,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/hemant12797/Leet_Solutions/tree/master/0397-integer-replacement) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hemant12797/Leet_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/hemant12797/Leet_Solutions/tree/master/0890-lemonade-change) |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/hemant12797/Leet_Solutions/tree/master/0397-integer-replacement) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 | [1940-maximum-xor-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -368,4 +371,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/hemant12797/Leet_Solutions/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
