@@ -63,6 +63,7 @@
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/hemant12797/Leet_Solutions/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hemant12797/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0958-sort-array-by-parity-ii](https://github.com/hemant12797/Leet_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/hemant12797/Leet_Solutions/tree/master/0979-di-string-match) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hemant12797/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/hemant12797/Leet_Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -151,6 +152,7 @@
 | [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hemant12797/Leet_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
+| [0958-sort-array-by-parity-ii](https://github.com/hemant12797/Leet_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hemant12797/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -198,6 +200,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
+| [0958-sort-array-by-parity-ii](https://github.com/hemant12797/Leet_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/hemant12797/Leet_Solutions/tree/master/0979-di-string-match) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hemant12797/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hemant12797/Leet_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
