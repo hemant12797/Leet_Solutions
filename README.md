@@ -82,6 +82,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hemant12797/Leet_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2478-longest-nice-subarray](https://github.com/hemant12797/Leet_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hemant12797/Leet_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemant12797/Leet_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hemant12797/Leet_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -278,6 +279,7 @@
 | [0861-flipping-an-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0861-flipping-an-image) |
 | [1940-maximum-xor-for-each-query](https://github.com/hemant12797/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2478-longest-nice-subarray](https://github.com/hemant12797/Leet_Solutions/tree/master/2478-longest-nice-subarray) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hemant12797/Leet_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hemant12797/Leet_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/hemant12797/Leet_Solutions/tree/master/3394-minimum-array-end) |
@@ -306,6 +308,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/hemant12797/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/hemant12797/Leet_Solutions/tree/master/1755-defuse-the-bomb) |
+| [2478-longest-nice-subarray](https://github.com/hemant12797/Leet_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hemant12797/Leet_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hemant12797/Leet_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/hemant12797/Leet_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
