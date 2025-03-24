@@ -276,6 +276,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hemant12797/Leet_Solutions/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/hemant12797/Leet_Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/hemant12797/Leet_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/hemant12797/Leet_Solutions/tree/master/0397-integer-replacement) |
@@ -392,6 +393,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/hemant12797/Leet_Solutions/tree/master/0191-number-of-1-bits) |
 ## Memoization
 |  |
 | ------- |
