@@ -188,6 +188,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hemant12797/Leet_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2716-prime-subtraction-operation](https://github.com/hemant12797/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2756-buy-two-chocolates](https://github.com/hemant12797/Leet_Solutions/tree/master/2756-buy-two-chocolates) |
+| [3055-maximum-odd-binary-number](https://github.com/hemant12797/Leet_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Two Pointers
 |  |
@@ -234,6 +235,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/hemant12797/Leet_Solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hemant12797/Leet_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3055-maximum-odd-binary-number](https://github.com/hemant12797/Leet_Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hemant12797/Leet_Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/hemant12797/Leet_Solutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hemant12797/Leet_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -255,6 +257,7 @@
 | [0371-sum-of-two-integers](https://github.com/hemant12797/Leet_Solutions/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/hemant12797/Leet_Solutions/tree/master/2383-add-two-integers) |
 | [2716-prime-subtraction-operation](https://github.com/hemant12797/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
+| [3055-maximum-odd-binary-number](https://github.com/hemant12797/Leet_Solutions/tree/master/3055-maximum-odd-binary-number) |
 ## Simulation
 |  |
 | ------- |
