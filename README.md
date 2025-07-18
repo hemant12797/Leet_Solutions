@@ -201,6 +201,7 @@
 | [0005-longest-palindromic-substring](https://github.com/hemant12797/Leet_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/hemant12797/Leet_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hemant12797/Leet_Solutions/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hemant12797/Leet_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
@@ -352,6 +353,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hemant12797/Leet_Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hemant12797/Leet_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/hemant12797/Leet_Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Interactive
 |  |
