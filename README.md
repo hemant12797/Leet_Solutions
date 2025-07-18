@@ -53,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hemant12797/Leet_Solutions/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/hemant12797/Leet_Solutions/tree/master/0283-move-zeroes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hemant12797/Leet_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -207,6 +208,7 @@
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hemant12797/Leet_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -261,6 +263,7 @@
 | [0066-plus-one](https://github.com/hemant12797/Leet_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hemant12797/Leet_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemant12797/Leet_Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/hemant12797/Leet_Solutions/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/hemant12797/Leet_Solutions/tree/master/2383-add-two-integers) |
 | [2716-prime-subtraction-operation](https://github.com/hemant12797/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
