@@ -55,6 +55,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hemant12797/Leet_Solutions/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemant12797/Leet_Solutions/tree/master/0283-move-zeroes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hemant12797/Leet_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
@@ -106,6 +107,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0525-contiguous-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hemant12797/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -126,6 +128,7 @@
 | [0069-sqrtx](https://github.com/hemant12797/Leet_Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/hemant12797/Leet_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/hemant12797/Leet_Solutions/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hemant12797/Leet_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/hemant12797/Leet_Solutions/tree/master/0792-binary-search) |
@@ -157,6 +160,7 @@
 | [0015-3sum](https://github.com/hemant12797/Leet_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hemant12797/Leet_Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hemant12797/Leet_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/hemant12797/Leet_Solutions/tree/master/0455-assign-cookies) |
@@ -264,6 +268,7 @@
 | [0067-add-binary](https://github.com/hemant12797/Leet_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemant12797/Leet_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/hemant12797/Leet_Solutions/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/hemant12797/Leet_Solutions/tree/master/2383-add-two-integers) |
 | [2716-prime-subtraction-operation](https://github.com/hemant12797/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -291,6 +296,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/hemant12797/Leet_Solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/hemant12797/Leet_Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/hemant12797/Leet_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/hemant12797/Leet_Solutions/tree/master/0397-integer-replacement) |
