@@ -52,6 +52,7 @@
 | [0074-search-a-2d-matrix](https://github.com/hemant12797/Leet_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hemant12797/Leet_Solutions/tree/master/0198-house-robber) |
@@ -296,6 +297,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hemant12797/Leet_Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hemant12797/Leet_Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/hemant12797/Leet_Solutions/tree/master/0371-sum-of-two-integers) |
