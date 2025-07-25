@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hemant12797/Leet_Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/hemant12797/Leet_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hemant12797/Leet_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -109,6 +110,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hemant12797/Leet_Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0525-contiguous-array) |
