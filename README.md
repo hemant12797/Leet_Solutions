@@ -51,6 +51,7 @@
 | [0051-n-queens](https://github.com/hemant12797/Leet_Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/hemant12797/Leet_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/hemant12797/Leet_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/hemant12797/Leet_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0136-single-number) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0015-3sum](https://github.com/hemant12797/Leet_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hemant12797/Leet_Solutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/hemant12797/Leet_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
@@ -214,6 +216,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/hemant12797/Leet_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hemant12797/Leet_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0151-reverse-words-in-a-string) |
