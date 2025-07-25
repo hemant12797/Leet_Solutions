@@ -213,6 +213,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/hemant12797/Leet_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hemant12797/Leet_Solutions/tree/master/0283-move-zeroes) |
@@ -237,6 +238,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/hemant12797/Leet_Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/hemant12797/Leet_Solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/hemant12797/Leet_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemant12797/Leet_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
