@@ -55,6 +55,7 @@
 | [0075-sort-colors](https://github.com/hemant12797/Leet_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hemant12797/Leet_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/hemant12797/Leet_Solutions/tree/master/0169-majority-element) |
@@ -157,6 +158,7 @@
 | [0010-regular-expression-matching](https://github.com/hemant12797/Leet_Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hemant12797/Leet_Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hemant12797/Leet_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/hemant12797/Leet_Solutions/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/hemant12797/Leet_Solutions/tree/master/0397-integer-replacement) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant12797/Leet_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
