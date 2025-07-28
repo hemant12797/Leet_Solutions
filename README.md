@@ -49,6 +49,7 @@
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hemant12797/Leet_Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/hemant12797/Leet_Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/hemant12797/Leet_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/hemant12797/Leet_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/hemant12797/Leet_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hemant12797/Leet_Solutions/tree/master/0075-sort-colors) |
@@ -155,6 +156,7 @@
 | [0005-longest-palindromic-substring](https://github.com/hemant12797/Leet_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/hemant12797/Leet_Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/hemant12797/Leet_Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/hemant12797/Leet_Solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/hemant12797/Leet_Solutions/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/hemant12797/Leet_Solutions/tree/master/0397-integer-replacement) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant12797/Leet_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -427,6 +429,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hemant12797/Leet_Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/hemant12797/Leet_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/hemant12797/Leet_Solutions/tree/master/0191-number-of-1-bits) |
