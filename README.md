@@ -56,6 +56,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/hemant12797/Leet_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hemant12797/Leet_Solutions/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemant12797/Leet_Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/hemant12797/Leet_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0525-contiguous-array) |
@@ -166,6 +168,7 @@
 | [0016-3sum-closest](https://github.com/hemant12797/Leet_Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/hemant12797/Leet_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant12797/Leet_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/hemant12797/Leet_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hemant12797/Leet_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/hemant12797/Leet_Solutions/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hemant12797/Leet_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -327,6 +330,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hemant12797/Leet_Solutions/tree/master/0169-majority-element) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hemant12797/Leet_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hemant12797/Leet_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hemant12797/Leet_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -424,6 +428,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemant12797/Leet_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/hemant12797/Leet_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/hemant12797/Leet_Solutions/tree/master/0191-number-of-1-bits) |
 ## Memoization
 |  |
